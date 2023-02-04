@@ -1,2 +1,4 @@
 # Hexart.In-Task3
 Image classification of butterflies using Convolutional Neural Networks (CNNs)
+
+Image classification of butterflies using Convolutional Neural Networks (CNNs) involves training a model to recognize and distinguish different species of butterflies based on their images. The process starts by collecting a large dataset of butterfly images, which are then pre-processed and labeled with the corresponding species name. The data is then divided into training, validation, and testing sets, with the training set being used to train the CNN. The CNN is a type of deep learning network that uses convolutional layers to extract and learn important features from the image data. The model is then fine-tuned and evaluated on the validation set, and finally, its performance is measured on the test set. The goal is to achieve high accuracy in classifying butterfly images into their correct species.
